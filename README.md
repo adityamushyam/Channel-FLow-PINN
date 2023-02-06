@@ -1,2 +1,2 @@
 # Channel-FLow-PINN
-Channel Flow simualtion using Physics informed neural networks
+Channel Flow simulation using Physics informed neural networks
